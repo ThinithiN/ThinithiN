@@ -116,21 +116,16 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 
 ## Github Stats 
 
-<p align="center">
-  <a href="https://github.com/ThinithiN/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinithiN&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/ThinithiN/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ThinithiN&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
-    />
-  </a>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thinithin&show_icons=true&locale=en" alt="thinithin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinithin&" alt="thinithin" /></p>
+
 
 
 
