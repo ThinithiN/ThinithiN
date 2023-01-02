@@ -135,7 +135,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 
 
 <br/>  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
+
 
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
