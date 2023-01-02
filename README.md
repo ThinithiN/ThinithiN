@@ -124,7 +124,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thinithin&show_icons=true&locale=en" alt="thinithin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinithin&" alt="thinithin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThinithiN&" alt="ThinithiN" /></p>
 
 
 
