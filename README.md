@@ -1,4 +1,4 @@
-### Hi there👋 my name is Thinithi
+### Hi there👋 my name is Ashini
                                                     
 #### I am IT Undergraduate at SLIIT
 
@@ -15,7 +15,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 
 - 🔭 I’m currently studing  at  SLIIT 
 - 🌱 I’m currently learning Information Technology 
-- 📫 How to reach me: nimthara12@gmail.com 
+- 📫 How to reach me: ashinirangodage@gmail.com 
 
 
 ## My Skill Set  
@@ -103,7 +103,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 ## 🚀 Frameworks...
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThinithiN)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AshiRangodage)  
 
 
 
@@ -111,23 +111,23 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 
 <p align="left">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThinithiN" alt="g3root" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshiRangodage" alt="g3root" /></a> </p>
 </p>
 
 ## Github Stats 
 
 <p align="center">
-  <a href="https://github.com/ThinithiN/github-readme-stats">
+  <a href="https://github.com/AshiRangodage/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinithiN&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiRangodage&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/ThinithiN/github-readme-stats">
+  <a href="https://github.com/AshiRangodage/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ThinithiN&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=AshiRangodage&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
     />
   </a>
 </p>
@@ -135,9 +135,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 
 
 <br/>  
-
-
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31conbsi4gtghiwaxcceeeaqfe3q&cover_image=true&theme=default" /></div> 
 
 
@@ -150,13 +147,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PH
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThinithiN)  
 
-![GitHub metrics](https://metrics.lecoq.io/ThinithiN)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AshiRangodage)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThinithiN&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub metrics](https://metrics.lecoq.io/AshiRangodage)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshiRangodage&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
-![Profile views](https://gpvc.arturio.dev/ThinithiN) 
-
+![Profile views](https://gpvc.arturio.dev/AshiRangodage) 
